@@ -1,7 +1,7 @@
 {
   "id": "aa-dpi",
   "name": "Android Auto DPI",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "hmgapi": ">=1.0.0",
   "authors": ["eliotwass", "AwsomeFox"],
   "license": "GPL-3.0",
